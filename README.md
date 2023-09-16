@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/The_Ousama/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="OusamaAbouKhalil@gmail.com" target="_blank">
+  <a href="https://gmail.com/OusamaAbouKhalil@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ousama-abou-khalil-432b1022a" target="_blank">
